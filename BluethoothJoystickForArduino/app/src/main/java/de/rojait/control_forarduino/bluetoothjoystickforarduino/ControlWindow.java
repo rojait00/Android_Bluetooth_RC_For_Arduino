@@ -1,4 +1,4 @@
-package de.rojait.control_forarduino.bluetoothjoystickforarduino;
+﻿package de.rojait.control_forarduino.bluetoothjoystickforarduino;
 
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
@@ -218,12 +218,12 @@ public class ControlWindow extends ActionBarActivity {
         try {
             String msg;
             if (servoVertikal!= servoVertikal_old) {
-                msg = "m:" + servoVertikal;
+                msg = "x" + servoVertikal;
                 mmOutputStream.write(msg.getBytes());
                 servoVertikal_old = servoVertikal;
             }
             if (servoHorizontal!= servoHorizontal_old) {
-                msg = "h:" + servoHorizontal;
+                msg = "y" + servoHorizontal;
                 mmOutputStream.write(msg.getBytes());
                 servoHorizontal_old = servoHorizontal;
             }
