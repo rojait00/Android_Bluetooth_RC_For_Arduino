@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">BluetoothJoystickForArduino</string>
+    <string name="action_settings">Settings</string>
+    <string name="Servoauslenkung">X = 0 \nY = 0</string>
+    <string name="title_activity_einstellungen">Einstellungen</string>
+    <string name="Horizontal_Links_Max">5</string>
+    <string name="Horizontal_Mitte">36</string>
+    <string name="Horizontal_Max_Rechts">73</string>
+    <string name="Vertikal_Max_Oben">180</string>
+    <string name="Vertikal_Mitte">90</string>
+    <string name="Vertikal_Max_Unten">0</string>
+    <string name="Save">Save</string>
+    <string name="title_activity_btsend">BTSend</string>
+    <string name="BuildConnection">Baue Verbindung auf</string>
+    <string name="General">Allgemein</string>
+    <string name="JumpZeroDeskription">Soll der Stick wieder auf 0 springen,wenn er losgelassen wird?</string>
+    <string name="JumpZero">Springe auf 0</string>
+    <string name="ServoSettings">Servo Einstellungen</string>
+    <string name="SetServoRange">Legen sie hier fest in welchem Bereich der Servo arbeitet.</string>
+    <string name="HorizontalServo">Horizontaler Servo:</string>
+    <string name="LeftBorder">Linke Grenze</string>
+    <string name="HorizontalMiddle">Mittelwert</string>
+    <string name="RightBorder">Rechte Grenze</string>
+    <string name="VerticalServo">Vertikaler Servo:</string>
+    <string name="UpperBorder">Obere Grenze</string>
+    <string name="LowerBorder">Mittelwert</string>
+    <string name="LowBorder">Untere Grenze</string>
+    <string name="Verticalmiddle">Mittelwert</string>
+    <string name="Bluetooth">Bluetooth</string>
+    <string name="BluetoothModuleName">Geben sie die ID, des Bluetooth-Modules an. (z.B.: HC-06)</string>
+    <string name="seekBar_verschiebar">erlaube verschieben</string>
+
+</resources>

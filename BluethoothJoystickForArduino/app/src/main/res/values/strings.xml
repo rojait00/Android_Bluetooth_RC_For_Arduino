@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="BuildConnection">Start Connection</string>
+    <string name="General">General</string>
+    <string name="action_settings">Settings</string>
+    <string name="HorizontalMiddle">Middle</string>
+    <string name="HorizontalServo">Horizontal servo:</string>
+    <string name="JumpZero">Jump to middle</string>
+    <string name="JumpZeroDeskription">Shall the \"stick\" go back to the middle after stop touching the screen?</string>
+    <string name="LeftBorder">Left border</string>
+    <string name="LowBorder">lower border</string>
+    <string name="LowerBorder">middle</string>
+    <string name="RightBorder">Right border</string>
+    <string name="ServoSettings">Servo settings</string>
+    <string name="Servoauslenkung">X = 0 \\nY = 0</string>
+    <string name="SetServoRange">Set the working range of the servo.</string>
+    <string name="UpperBorder">Upper border</string>
+    <string name="VerticalServo">Vertical servo:</string>
+    <string name="Verticalmiddle">Middle</string>
+    <string name="app_name">BluetoothJoystickForArduino</string>
+    <string name="title_activity_einstellungen">Settings</string>
+    <string name="Horizontal_Links_Max">5</string>
+    <string name="Horizontal_Mitte">36</string>
+    <string name="Horizontal_Max_Rechts">73</string>
+    <string name="Vertikal_Max_Oben">180</string>
+    <string name="Vertikal_Mitte">90</string>
+    <string name="Vertikal_Max_Unten">0</string>
+    <string name="Bluetooth">Bluetooth</string>
+    <string name="BluetoothModuleName">Set the ID of the bluetooth-module. (for Example: HC-06)</string>
+    <string name="seekBar_verschiebar">allow moving</string>
+</resources>
